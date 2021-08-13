@@ -1,0 +1,17 @@
+.body_background{
+    background-image: url("th.jpg");
+    background-position: center;
+    background-size: cover;
+}
+body{
+    cursor: pointer;
+}
+h1{
+    color: crimson;
+    font-size: 20px;
+}
+#myCanvas{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
